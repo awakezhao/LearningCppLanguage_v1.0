@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<note>
+    <to>beijing</to>
+    <from>shenzhen</from>
+    <heading>Reminder</heading>
+    <body>Don't forget the meeting!</body>
+</note>

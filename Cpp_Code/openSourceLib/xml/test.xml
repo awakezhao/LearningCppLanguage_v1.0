@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+    <User Name="milo" Password="pwd">
+        <Gender>man</Gender>
+        <Age>18</Age>
+        <Gender>man</Gender>
+        <Gender>man</Gender>
+        <Mobile Location="home">186****3143</Mobile>
+        <Mobile Location="company">186****3143</Mobile>
+        <Mobile>186****3143</Mobile>
+        <Email>472251823@qq.com</Email>
+        <Mobile>186****3143</Mobile>
+        <Email>472251823@qq.com</Email>
+    </User>
+    <User Name="king" Password="pwd2">
+        <Mobile>186****3143</Mobile>
+    </User>
+    <User Name="king" Password="pwd2">
+        <Mobile>186****3143</Mobile>
+    </User>
+</Users>
